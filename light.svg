@@ -13,10 +13,10 @@
 <stop offset="1" stop-color="#059669"/>
 </linearGradient>
 <radialGradient id="portraitGrad" gradientUnits="userSpaceOnUse" cx="246.0" cy="268.0" r="235.0">
-<stop offset="0.00" stop-color="#0B1220"/>
-<stop offset="0.33" stop-color="#0C4A6E"/>
-<stop offset="0.67" stop-color="#0E7490"/>
-<stop offset="1.00" stop-color="#22D3EE"/>
+<stop offset="0.00" stop-color="#1E1B4B"/>
+<stop offset="0.33" stop-color="#312E81"/>
+<stop offset="0.67" stop-color="#3730A3"/>
+<stop offset="1.00" stop-color="#0C4A6E"/>
 </radialGradient>
 <radialGradient id="glow0" cx="0.5" cy="0.5" r="0.5">
 <stop offset="0" stop-color="#2563EB" stop-opacity="0.27"/>
@@ -180,166 +180,166 @@
 <text x="118.08" y="141.20" opacity="0.5">                                                                                  
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.441s" fill="freeze"/>
 </text>
-<text x="118.08" y="146.40" opacity="0.5">                             2sii;;:;:::;XA                                       
+<text x="118.08" y="146.40" opacity="0.5">                              Asriii;;irs22                                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.462s" fill="freeze"/>
 </text>
-<text x="118.08" y="151.60" opacity="0.5">                         3X;;;rri;:;::::::::;;iX                                  
+<text x="118.08" y="151.60" opacity="0.5">                          Ariisrri;i;:;;;;;iirrX                                  
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.483s" fill="freeze"/>
 </text>
-<text x="118.08" y="156.80" opacity="0.5">                       XrXr;::;XXi;:::::::.::::::iA                               
+<text x="118.08" y="156.80" opacity="0.5">                       2sAr;:;iAXi;::::::.:;:::::iA                               
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.504s" fill="freeze"/>
 </text>
-<text x="118.08" y="162.00" opacity="0.5">                     5XsAAi;;;;rAs;:::;;iiii;:..:::i5                             
+<text x="118.08" y="162.00" opacity="0.5">                     5ssA2s;;:iXXr;:::::;;:::..::.:i                              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.525s" fill="freeze"/>
 </text>
-<text x="118.08" y="167.20" opacity="0.5">                    Xss5Ai;:iirirri;::irAhMHh2s:..:::iA                           
+<text x="118.08" y="167.20" opacity="0.5">                    2sr22i;.:;;rXr;:::;isX25Xr;...:::r2                           
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.546s" fill="freeze"/>
 </text>
-<text x="118.08" y="172.40" opacity="0.5">                  MXsA32i;iis2AA52XssX23HS#9BB9HA;:.:.:i                          
+<text x="118.08" y="172.40" opacity="0.5">                  2srX5A;:::;irrsri;;irX3MS999S3s:..::;r                          
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.567s" fill="freeze"/>
 </text>
-<text x="118.08" y="177.60" opacity="0.5">                 MAX3G#SGGGGS#SG99#SSS######99B&amp;BMr;:..;i                         
+<text x="118.08" y="177.60" opacity="0.5">                  srA33AsrrsA35hGGM33MMS#9999BB&amp;93i:.:::iA                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.588s" fill="freeze"/>
 </text>
-<text x="118.08" y="182.80" opacity="0.5">                 AAH@@@@@@@@@@@&amp;BB9############9B&amp;Gr:.:;;i                        
+<text x="118.08" y="182.80" opacity="0.5">                 XX2#&amp;&amp;@&amp;B99B&amp;&amp;&amp;@&amp;B999999#99999B&amp;&amp;Mr:.:;;i                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.609s" fill="freeze"/>
 </text>
-<text x="118.08" y="188.00" opacity="0.5">                52H@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;B9#SSS#SSSSS#S##9BB3;:::::                        
+<text x="118.08" y="188.00" opacity="0.5">                A25@@@@@@@@@@@@@&amp;B9###9####99999B&amp;B5;::::;                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.630s" fill="freeze"/>
 </text>
-<text x="118.08" y="193.20" opacity="0.5">                X5@@@@@@@@@&amp;&amp;&amp;&amp;&amp;B9#SSSSSSSSSSSSS##BSs:::::                        
+<text x="118.08" y="193.20" opacity="0.5">                XX&amp;@@@@@@@@@@@&amp;&amp;&amp;B9#######S#####9B&amp;#s::::;A                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.651s" fill="freeze"/>
 </text>
-<text x="118.08" y="198.40" opacity="0.5">               MXS@@@@@@@@@@&amp;&amp;&amp;B&amp;B9#######SSSSSSSS#HX;..:;                        
+<text x="118.08" y="198.40" opacity="0.5">               2XG@@@@@@@@@@@@&amp;&amp;&amp;BB9BB99#9##S###99B#A;.:;;A                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.672s" fill="freeze"/>
 </text>
-<text x="118.08" y="203.60" opacity="0.5">               3sB@@@@@@@@@@@&amp;BBBB9#999BB99##SSSS##3s::::;                        
+<text x="118.08" y="203.60" opacity="0.5">               2XB@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;BBBB&amp;&amp;BBB99###999HA;:::is                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.693s" fill="freeze"/>
 </text>
-<text x="118.08" y="208.80" opacity="0.5">               Ar#@@@@@@@@@@@&amp;&amp;B&amp;B#S#999BBBBBBB9999hr;::::A                       
+<text x="118.08" y="208.80" opacity="0.5">               Xs#@@@@@@@@@@@@&amp;&amp;&amp;&amp;BBB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;BB99BBMX;:::;i                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.714s" fill="freeze"/>
 </text>
-<text x="118.08" y="214.00" opacity="0.5">               XiH@@@@@@@@@@@@&amp;&amp;B9#SSSSHhh3555S&amp;&amp;&amp;&amp;B2:::::i                       
+<text x="118.08" y="214.00" opacity="0.5">               siH@@@@@@@@@@@@@@&amp;&amp;BB9B9GHHMMhM#&amp;&amp;&amp;&amp;&amp;5::.:;;                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.735s" fill="freeze"/>
 </text>
-<text x="118.08" y="219.20" opacity="0.5">               5;h@@&amp;&amp;99B9B&amp;@&amp;BB#Hh32Xi:;;;;iir2MG9&amp;G;:.::;                       
+<text x="118.08" y="219.20" opacity="0.5">               X:h@@@&amp;9#99B@@@@@@9SHhAr::;;iirs5HSB@#;:.:;:                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.756s" fill="freeze"/>
 </text>
-<text x="118.08" y="224.40" opacity="0.5">               H;5@B3sriiirX53335XrrssXXXXA23333hAH9#M5X;:s                       
+<text x="118.08" y="224.40" opacity="0.5">               5;A@Bhsii;irA3MHGM5XsXXA22533hh33hAGB9M5A;::                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.777s" fill="freeze"/>
 </text>
-<text x="118.08" y="229.60" opacity="0.5">               G;AHMH#GM3523H#532XX55AXri;iisX23GG9BSi.:XM&amp;#B                     
+<text x="118.08" y="229.60" opacity="0.5">               M;sHHH#SHM35hG95hh2AhM32XsrrsX55hSSB&amp;9r:;r59BB                     
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.798s" fill="freeze"/>
 </text>
-<text x="118.08" y="234.80" opacity="0.5">               S5MS&amp;&amp;SH5i;ir5#S@@B5AXAsrs2;i23AAhS9&amp;&amp;A:5BB&amp;G3#                    
+<text x="118.08" y="234.80" opacity="0.5">               HXHG@&amp;#ShsirX5#S@@&amp;3A23AX23rrhM55M#B&amp;@A:X9&amp;&amp;#M#                    
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.819s" fill="freeze"/>
 </text>
-<text x="118.08" y="240.00" opacity="0.5">               &amp;&amp;&amp;S@SH##XrXs3GG@@@95H5222253hHHG#9B&amp;@M:3B9@BH#                    
+<text x="118.08" y="240.00" opacity="0.5">               &amp;&amp;&amp;S@9HS9AsXX5HG@@@B5Gh3553hHGSSS99B&amp;@H:2&amp;B@&amp;S9                    
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.840s" fill="freeze"/>
 </text>
-<text x="118.08" y="245.20" opacity="0.5">               B&amp;##@@@@&amp;#SS#&amp;@&amp;@@@9#SSSSGGS#9B9BBBB&amp;@S:A35G&amp;G9                    
+<text x="118.08" y="245.20" opacity="0.5">               B&amp;9S@@@@&amp;9SS#B@&amp;@@@BB#####S#9BBBB&amp;B&amp;&amp;@#:XGM9@9B                    
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.861s" fill="freeze"/>
 </text>
-<text x="118.08" y="250.40" opacity="0.5">               &amp;Bh#@@@@@@@@@@@@@@&amp;9#9S#999###99BBB&amp;&amp;@h:Ah32G9#                    
+<text x="118.08" y="250.40" opacity="0.5">               B&amp;MS@@@@@@@@@@@@@@@B9B#9BBBB9BBB&amp;&amp;&amp;&amp;@@M:XHHM9B9                    
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.882s" fill="freeze"/>
 </text>
-<text x="118.08" y="255.60" opacity="0.5">               &amp;&amp;X&amp;@@@@@@@@@@@@@@&amp;99##SS####SS###9B&amp;&amp;X.r#GM9B                     
+<text x="118.08" y="255.60" opacity="0.5">               9&amp;59@@@@@@@@@@@@@@&amp;BB99#99BB9999B9B&amp;&amp;@2:;9#GB@                     
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.903s" fill="freeze"/>
 </text>
-<text x="118.08" y="260.80" opacity="0.5">                Bs#@@@@@@@@@@@@@@B9B9#SSS####SSSS#9B#i.;S@@B                      
+<text x="118.08" y="260.80" opacity="0.5">                @AH@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;B9#99BB999999B&amp;9r:;S@@@9                     
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.924s" fill="freeze"/>
 </text>
-<text x="118.08" y="266.00" opacity="0.5">                @AM@@@@@@@@@@@@@9GGG9&amp;&amp;S######S#SS#92:.:h@@                       
+<text x="118.08" y="266.00" opacity="0.5">                B32@@@@@@@@@@@@@&amp;99S9&amp;&amp;99999B99999B92:.:h@@9                      
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.945s" fill="freeze"/>
 </text>
-<text x="118.08" y="271.20" opacity="0.5">                 XX@@@@@@@@@@BM#BH5XsAH#9#9#####SGM5i..:sB                        
+<text x="118.08" y="271.20" opacity="0.5">                S5i&amp;@@@@@@@@@&amp;G9&amp;#M525S&amp;&amp;BBBBBB9B#H5i..:sB                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.966s" fill="freeze"/>
 </text>
-<text x="118.08" y="276.40" opacity="0.5">                 XrG@@@@@@@@@&amp;9SH3XirX3GSSHS##SGhAs;:.::                          
+<text x="118.08" y="276.40" opacity="0.5">                Hsi3@@@@@@@@@&amp;#h3MA;is5G##GSB&amp;B#G5Xi::::X                         
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="0.987s" fill="freeze"/>
 </text>
-<text x="118.08" y="281.60" opacity="0.5">                 X;sG&amp;&amp;@@BSSH2ss;:;;:::;ii;;XSG3s;::..::                          
+<text x="118.08" y="281.60" opacity="0.5">                HX;ih&amp;&amp;@@9GHhXiXr:rs;i;;ii;iXS9HAi::::::X                         
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.008s" fill="freeze"/>
 </text>
-<text x="118.08" y="286.80" opacity="0.5">                 XriiA3#HrrrrX2HSMh2XXsri::::iAr;:....:.r                         
+<text x="118.08" y="286.80" opacity="0.5">               SHA;;iXA#hiirs3M&amp;@B#H3332A;:;:r2Xi::::::.i                         
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.029s" fill="freeze"/>
 </text>
-<text x="118.08" y="292.00" opacity="0.5">                3i;;iii3sr;rA25MMh55522Asi::::;;:::::.:.;                         
+<text x="118.08" y="292.00" opacity="0.5">               SA;;;;irM2s;X33G9##SGHHMhAsi;:;rr::::::::;M                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.050s" fill="freeze"/>
 </text>
-<text x="118.08" y="297.20" opacity="0.5">                2rrrirXXs;:r5#@@@&amp;BBSHMHM2i::::;::...:.:i                         
+<text x="118.08" y="297.20" opacity="0.5">               S2rrirsXXXi;sMB@@@@&amp;&amp;B9BB9HX;:::i;:.::;::i                         
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.071s" fill="freeze"/>
 </text>
-<text x="118.08" y="302.40" opacity="0.5">                 Xrirsrii::rG@@BhXXrsA5M3Xi:::::::.....;                          
+<text x="118.08" y="302.40" opacity="0.5">               SHXriiAXsi;:rS@@&amp;3rsrs3hGH5r;:;::;;::.:::2                         
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.092s" fill="freeze"/>
 </text>
-<text x="118.08" y="307.60" opacity="0.5">                 5i:rrr::;::i5H2i;.::;;;;::.:::.:.:....;                          
+<text x="118.08" y="307.60" opacity="0.5">               Sh2r:rrs::;::rMG3r;::;iirs;::;:;.::::..::XS                        
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.113s" fill="freeze"/>
 </text>
-<text x="118.08" y="312.80" opacity="0.5">                hAi;ii;;;::.::;;;:::i;;::..:::::.....:.:r                         
+<text x="118.08" y="312.80" opacity="0.5">               G5i;:rrir;;;::;;i;:;;iiri;::::;i;:..:::::iAH                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.134s" fill="freeze"/>
 </text>
-<text x="118.08" y="318.00" opacity="0.5">                3i:;rrrii:::::::i;r;;;ri:...:::;:.::...:;                         
+<text x="118.08" y="318.00" opacity="0.5">               S5i:;irrsr:::;i;;ris;iisi;:::::;i::::::.:;sH                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.155s" fill="freeze"/>
 </text>
-<text x="118.08" y="323.20" opacity="0.5">                5Xi;;;i;:::iii:;rsr;:;:;:::....::....::is                         
+<text x="118.08" y="323.20" opacity="0.5">              GM2si;;rri;::rsr;isXXi;i;i;;:::.::::..::::r2G                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.176s" fill="freeze"/>
 </text>
-<text x="118.08" y="328.40" opacity="0.5">               GhArir;i::.;sri;iiX;::..::..:.....:..:::rA                         
+<text x="118.08" y="328.40" opacity="0.5">              Hh2Asrrii;;.;5ssirrX;;::::;::::...:::::;:iAHG                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.197s" fill="freeze"/>
 </text>
-<text x="118.08" y="333.60" opacity="0.5">               HhArsriii:.iis;:;ii;..:..:;::....:.:..:;:;                         
+<text x="118.08" y="333.60" opacity="0.5">              HM2Xrssirr::;X2r:;ii;::::::i;:::.:::::::ii:sG                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.218s" fill="freeze"/>
 </text>
-<text x="118.08" y="338.80" opacity="0.5">                3ssriii;:::ii;:::i::.;;i;i:::.::..:..:ir:i                        
+<text x="118.08" y="338.80" opacity="0.5">              HMArrrrii;::.;ri;::i;;:;;iir;;;::::.:::;rA;:s                       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.239s" fill="freeze"/>
 </text>
-<text x="118.08" y="344.00" opacity="0.5">                3rsii;;;:::;iir;::rri;;iri:.::..::.:..::;;i                       
+<text x="118.08" y="344.00" opacity="0.5">              HhXirrr;;i;;;;riXi;:irsrirsri::;.::;:;:;ir;;;X                      
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.260s" fill="freeze"/>
 </text>
-<text x="118.08" y="349.20" opacity="0.5">                AXrri;i;;::.;;;rr:::;;;isi::....:::.:::;;;;r                      
+<text x="118.08" y="349.20" opacity="0.5">              MMXsrXrrr;;:;.::iss:.:::;rXr;;:::.:::.:i:;;;;;X                     
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.281s" fill="freeze"/>
 </text>
-<text x="118.08" y="354.40" opacity="0.5">                3sirii;i;::...::i;:::.;;i;:::....::..:::;:;;;;                    
+<text x="118.08" y="354.40" opacity="0.5">              HH3ArrXi:r;;;...:;rs;:::i;r;:;::..:;::::;;;   ;iX                   
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.302s" fill="freeze"/>
 </text>
-<text x="118.08" y="359.60" opacity="0.5">              AAXsiir;;i;;::..:;ri:::.;i;;:;::..::::::::::::::;;;;r               
+<text x="118.08" y="359.60" opacity="0.5">              322Asssr;riri::.;iss::;:;s:i:i:::::;;;:;i;    ;;:;iisX              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.323s" fill="freeze"/>
 </text>
-<text x="118.08" y="364.80" opacity="0.5">          rsrsAAAXr;rri;:;;:..;ir;:::::;;:;:::::.:::::::::::::;::;;;;irs          
+<text x="118.08" y="364.80" opacity="0.5">           Xi::rA5X;rsrs;i:;::;is;;;:::i;;;::;::.;;::::;     ::;;;;;;;r           
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.344s" fill="freeze"/>
 </text>
-<text x="118.08" y="370.00" opacity="0.5">     riiiirsXAr;:sAsriri;;::::;;i:::...:;:::::...::::::::::::;;;:::::;;;;;i       
+<text x="118.08" y="370.00" opacity="0.5">         i::.:sXs;rXXirsr;i;:;;;r;;;:.:;r:;:;;:.::;:::;;            ::;;;;i       
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.365s" fill="freeze"/>
 </text>
-<text x="118.08" y="375.20" opacity="0.5">     i;irsXAX;::;sArXs;ri:;:::::;i:...::::..:::.::::.:::::::;;;;::::;;:::::::     
+<text x="118.08" y="375.20" opacity="0.5">        ;..:iXAi...ssAi;r:i::;:;ir;.:::;;::::::.:::::;:::                ;;;      
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.386s" fill="freeze"/>
 </text>
-<text x="118.08" y="380.40" opacity="0.5">   ii;;iXAAr:::;r2XrX;.ss:ri:..::ri:......::....:...:::::::;;;;:::::;:::::.:      
+<text x="118.08" y="380.40" opacity="0.5">     Xr:..:rAA;...iAAs:.s;rr:::::sr::::::::;:...::::::::                          
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.407s" fill="freeze"/>
 </text>
-<text x="118.08" y="385.60" opacity="0.5">   ;;;irAAi::;rsA2sr;..XX.:sXi::;rssXss:...........::::::;;;;;;::::::::...s       
+<text x="118.08" y="385.60" opacity="0.5">     i:..:rAX;...;AAX:..r;:;i;:;s2355A2Xs:..   ::::..:                            
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.428s" fill="freeze"/>
 </text>
-<text x="118.08" y="390.80" opacity="0.5">   ;;;iXsi::;sXXAXsi..;A2;.:rXriiAA2X:........:..:::::::;;:;;:::::::::..:         
+<text x="118.08" y="390.80" opacity="0.5">    ;:..:iAs:..:;s2Ai...XX..;ssii3MMH9hr:...   ....:                              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.449s" fill="freeze"/>
 </text>
-<text x="118.08" y="396.00" opacity="0.5">   :;issi;:;rXAXXXr;..;A2r:.:isrrA2s........:::::;;;:::;;;::::::::::...A          
+<text x="118.08" y="396.00" opacity="0.5">   ;:.:;rAs:..:;   s:..:A2:..:rsrsGHHX..                                          
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.470s" fill="freeze"/>
 </text>
-<text x="118.08" y="401.20" opacity="0.5">    rrri;:;isXXXXXr;::iX2A;..:;r:iX:..:.:.:::::;;;;;;;;;;;;;;::::::..r            
+<text x="118.08" y="401.20" opacity="0.5">   :.:;sAs;:.:      :..;A2i...:i;:sHs:.:                                          
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.491s" fill="freeze"/>
 </text>
-<text x="118.08" y="406.40" opacity="0.5">     hsi::;rsXXsssi;::iX2Ar:..;s;i:...::::;;::;;;;;;;;;;;;;;;::::::s              
+<text x="118.08" y="406.40" opacity="0.5">                    ..:    :...;i:i;                                              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.512s" fill="freeze"/>
 </text>
-<text x="118.08" y="411.60" opacity="0.5">        s;irssssssi;;;iXAAXi:.:ii:::::;:;i;:;;ii;;;;;;;;;;;::::::2                
+<text x="118.08" y="411.60" opacity="0.5">                            :..:i;i:                                              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.533s" fill="freeze"/>
 </text>
-<text x="118.08" y="416.80" opacity="0.5">           srrsrssi;;;isXAXs;.:;;:::;;;;i;;;iiii;;;;;;;;;;;:::rh                  
+<text x="118.08" y="416.80" opacity="0.5">                             ..:;;::                                              
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.554s" fill="freeze"/>
 </text>
-<text x="118.08" y="422.00" opacity="0.5">             hXrrrii;;rssXsss;ii;rrs;;;;i;;;iii;;;;iii;;;;;sh                     
+<text x="118.08" y="422.00" opacity="0.5">                               :i;;22                                             
 <animate attributeName="opacity" values="0.5;1" dur="0.34s" begin="1.575s" fill="freeze"/>
 </text>
 </g></g></g>
