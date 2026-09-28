@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Syed Saifullah Shah — DevOps Engineer working across networking, security and cloud infrastructure" src="./dark.svg" width="100%">
-  </picture>
+  <img alt="Syed Saifullah Shah — DevOps Engineer working across networking, security and cloud infrastructure" src="./dark.svg" width="100%">
 </p>
 
 <p align="center">
