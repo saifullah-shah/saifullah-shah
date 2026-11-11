@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Syed Saifullah Shah — AI Engineer building agentic AI systems, LLM applications and AI workflow automation" src="./dark.svg" width="100%">
-  </picture>
+  <img alt="Syed Saifullah Shah — AI Engineer building agentic AI systems, LLM applications and AI workflow automation" src="./dark.svg" width="100%">
 </p>
 
 <p align="center">
